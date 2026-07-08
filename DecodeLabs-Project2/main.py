@@ -1,6 +1,6 @@
 # DecodeLabs AI Internship
 # Project 2 - Data Classification Using AI
-# Name: Vaidika Sharma
+# Name: Chottu Mukati
 # Algorithm: K-Nearest Neighbors (KNN)
 # Dataset: Iris Dataset
 

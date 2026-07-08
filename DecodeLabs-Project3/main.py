@@ -1,7 +1,7 @@
 # DecodeLabs AI Internship
 # Project 3
 # Tech Stack Recommendation System
-# Name: Vaidika Sharma
+# Name: Chottu Mukati
 # Algorithm:
 # - TF-IDF Vectorizer
 # - Cosine Similarity
