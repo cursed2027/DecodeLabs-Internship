@@ -46,7 +46,7 @@ while True:
         print("Bot: I can greet you and answer basic questions.")
 
     elif user_input == "who made you":
-        print("Bot: I was created by Vaidika Sharma.")
+        print("Bot: I was created by Chottu Mukati")
 
     elif user_input == "what can you do":
         print("Bot: I can chat, answer simple questions, and make your day better!")
