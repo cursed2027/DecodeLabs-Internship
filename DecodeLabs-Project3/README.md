@@ -40,4 +40,4 @@ Recommended Careers:
 2. AI Engineer
 3. Backend Developer
 
-Developed by **Chottu Mukati** for the DecodeLabs AI Internship.
+Developed by **Chottu Mukati** for the DecodeLabs AI Internship

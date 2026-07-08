@@ -16,7 +16,7 @@ Develop an Optical Character Recognition (OCR) system that extracts text from an
 - Extracts text using Tesseract OCR
 - Displays the recognized text in the terminal
 
-## Developed By
+## Developed By -
 Chottu Mukati
 
 ## Internship

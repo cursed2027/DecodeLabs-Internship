@@ -1,4 +1,4 @@
-# DecodeLabs AI Internship
+# DecodeLabs - AI Internship 
 # Project 2 - Data Classification Using AI
 # Name: Chottu Mukati
 # Algorithm: K-Nearest Neighbors (KNN)

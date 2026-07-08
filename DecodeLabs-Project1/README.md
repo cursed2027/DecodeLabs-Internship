@@ -2,7 +2,7 @@
 
 ## Project Title
 
-Rule-Based AI Chatbot
+Rule-Based AI Chatbot.
 
 ## Objective
 

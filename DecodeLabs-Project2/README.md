@@ -35,4 +35,4 @@ Develop a machine learning model to classify Iris flowers into three species usi
 * Accuracy: 100%
 * F1 Score: 1.0
 
-Developed by **Chottu Mukati** for the DecodeLabs AI Internship.
+Developed by **Chottu Mukati** for the DecodeLabs AI Internship
